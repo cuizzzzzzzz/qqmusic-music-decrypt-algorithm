@@ -46,8 +46,8 @@ QQ 音乐（Tencent Music / TME）安卓客户端会把下载的高音质音频�
 ## 安装与使用
 
 ```bash
-git clone https://github.com/cuizzzzzzzz/qqmusic-music-dectypt-algorithm.git
-cd qqmusic-music-dectypt-algorithm
+git clone https://github.com/cuizzzzzzzz/qqmusic-music-decrypt-algorithm.git
+cd qqmusic-music-decrypt-algorithm
 
 python3 qqmusic_decrypt.py selftest                      # 自检
 python3 qqmusic_decrypt.py key <ekey>                    # 只看密钥流长度
